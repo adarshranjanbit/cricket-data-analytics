@@ -1,8 +1,6 @@
 # T20 World Cup Data Analysis
 
-## Requirement Scoping
-
-This project involves collaborating with a Subject Matter Expert (SME) to analyze T20 World Cup data. The following steps outline the process:
+The following steps outline the process:
 
 ## Data Collection
 
@@ -43,7 +41,7 @@ The final stage involves collecting meaningful insights from the data visualizat
    - Implement data modeling and parameter creation using DAX. Refer to the DAX scripts in `data_modeling_scripts`.
 
 5. **Dashboarding:**
-   - Open the Power BI file (`T20_World_Cup_Dashboard.pbix`) to visualize the data. Ensure that Power BI is installed.
+   - Open the Power BI file to visualize the data. Ensure that Power BI is installed.
 
 6. **Insights Collection:**
    - Review the dashboards and visualizations in Power BI to gather insights from the T20 World Cup data.
